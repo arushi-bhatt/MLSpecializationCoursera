@@ -11,7 +11,8 @@ https://docs.python.org/2/index.html
 
 
 
-3. Getting Started References
+3. Learning Concepts about the Tools
+Getting Started References
 https://turi.com/learn/
 
 
@@ -20,6 +21,7 @@ https://turi.com/learn/userguide/
 
 
 5.GraphLab Create API Documentation
+More Detailed API Docs
 https://turi.com/products/create/docs/
 
 
@@ -38,3 +40,7 @@ GraphLab Create.
 A machine learning modeling tool for developers and data scientists.
 
 https://turi.com/
+
+
+10. Github link of TURI 
+https://github.com/turi-code/SFrame
