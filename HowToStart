@@ -1,0 +1,12 @@
+Steps :
+{go to folder with pynb file }
+1. # Activate the conda environment
+$source activate gl-env
+{write }
+$ ipyhton notebook
+
+
+
+
+
+
