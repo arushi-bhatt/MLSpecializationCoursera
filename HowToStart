@@ -1,9 +1,11 @@
+The following are the steps which you must follow to start with the implementation of course's assignment :
+
 Steps :
-{go to folder with pynb file }
-1. # Activate the conda environment
-$source activate gl-env
-{write }
-$ ipyhton notebook
+{go to folder with .ipynb files }
+1. To activate the conda environment, type the following commands : 
+
+	$source activate gl-env
+	$ ipyhton notebook
 
 
 
